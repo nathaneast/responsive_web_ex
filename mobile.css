@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-bar {
+  display: none;
+}
+
+.nav-menu {
+  display: block;
+}
+
+.footer-row {
+  flex-direction: column;
+}
+
+.bottom-info {
+  margin-bottom: 20px;
+}
